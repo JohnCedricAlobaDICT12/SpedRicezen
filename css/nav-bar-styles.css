@@ -1,0 +1,23 @@
+nav {
+    height: 110px;
+}
+
+.form-inline .btn {
+    border: 2px solid #ffffff   ;
+    background-color: #3A3B3C;
+    color: #ffffff;
+}
+
+.form-inline .btn:active,
+.form-inline .btn:focus {
+    border: 2px solid #3A3B3C;
+    background-color: #ffffff;
+    color: #3A3B3C;
+}
+
+.navbar-brands {
+    font-size: 40px;
+    font-family: Segoe Script;
+    margin-right: 15px;
+    color: #ffffff;
+}
